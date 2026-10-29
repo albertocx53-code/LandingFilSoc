@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen",
+  "images": [
+    {
+      "file": "imagens/hero.png",
+      "prompt": "A premium photorealistic product mockup for a Portuguese philosophy and sociology educational streaming service: large cinematic monitor showing an original painted portrait of Socrates and a small row of philosopher movie covers; smartphone standing in foreground showing Plato and Karl Marx in an elegant red-and-black streaming interface with no readable labels; a small red striped popcorn tub, scattered popcorn, two antique books and a simple bronze bust on the table. Three-quarter studio perspective, moody black background, ruby-red rim lights, realistic reflections, warm gold face highlights, cohesive believable hardware, all objects contained with breathing room. Wide landscape 3:2 composition. No text, no watermarks, no third-party logos. Original artwork not film posters. Do not depict historical figures holding modern devices; their portraits appear on the screens."
+    },
+    {
+      "file": "imagens/slides.png",
+      "prompt": "Original educational product illustration, landscape 3:2, dark cinematic black and ruby-red studio backdrop, a laptop displaying a beautifully arranged philosophy lesson slide with a recognizable painted portrait of Socrates, Plato and Aristotle on surrounding presentation cards, restrained cream and gold accents, subtle depth and realistic paper, professional Portuguese teacher learning material mockup, no readable text, no logos, no watermark."
+    },
+    {
+      "file": "imagens/mapas.png",
+      "prompt": "Original educational product illustration, landscape 3:2, dark cinematic black and ruby-red background, beautiful printed mind map sheets about philosophy and sociology, branching nodes linking tiny portraits of Socrates, Kant and Marx with symbols for ethics society and knowledge, tidy colorful academic infographic structure, premium realistic papers in perspective, no readable text no watermark no logos."
+    },
+    {
+      "file": "imagens/atividades.png",
+      "prompt": "Original educational product illustration landscape 3:2, dark cinematic black and ruby-red background, an impressive organized stack of worksheets with conceptual philosophy and sociology exercises, small diagrams, lined answer areas, classical philosopher portrait medallions and colored section tabs, pencils and binder, premium realistic teacher materials, no readable text, no watermark no logos."
+    },
+    {
+      "file": "imagens/plano-anual.png",
+      "prompt": "Original educational product illustration landscape 3:2 dark cinematic black and ruby-red backdrop, premium annual lesson-planning binder opened on a desk, organized calendar grid, color-coded semester timelines and topic tabs, tiny illustrated philosopher portraits, tasteful gold pen, structured realistic pages for philosophy and sociology education, no readable text no logos no watermark."
+    },
+    {
+      "file": "imagens/emergencia.png",
+      "prompt": "Original educational product illustration landscape 3:2 dark cinematic black and ruby-red backdrop, compact ready-to-teach philosophy and sociology lesson kit: open slim folder with illustrated Socrates lesson sheet, worksheet, notes, small elegant clock and warm light symbolizing quick preparation, premium photorealistic educational pack, no text no watermark no logos."
+    },
+    {
+      "file": "imagens/dinamicas.png",
+      "prompt": "Original educational product illustration landscape 3:2 dark cinematic black and ruby-red backdrop, premium discussion activity kit for philosophy and sociology: beautifully designed prompt cards spread on a table with two opposing speech bubble symbols, tiny painted portraits of Hannah Arendt and Karl Marx, an overhead circular seating diagram and paper notes suggesting respectful classroom discussion, realistic cards, no readable text no logos no watermark."
+    },
+    {
+      "file": "imagens/provas.png",
+      "prompt": "Original educational product illustration landscape 3:2 dark cinematic black and ruby-red backdrop, premium philosophy and sociology exam preparation pack: several clean test papers with multiple choice circles, short answer lines, printed charts and a small Socrates portrait, red pen and answer key page with checked choices, realistic structured academic materials, no readable text no logos no watermark."
+    }
+  ]
+}
